@@ -1,1 +1,4 @@
-Hello
+Hello!
+Welcome to CSE 15L Spring 2022.
+Learning pow is fun. (I can delete
+this from the command line)
